@@ -1,0 +1,282 @@
+[2022-10-08 15:29:27,678] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 15:42:32,088] [autoreload.py:597] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 15:43:38,194] [autoreload.py:597] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 15:44:56,338] [autoreload.py:597] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 15:46:48,583] [autoreload.py:677] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 15:53:46,023] [autoreload.py:597] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 15:56:46,158] [autoreload.py:597] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 15:57:22,772] [autoreload.py:597] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 15:57:25,683] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6412
+[2022-10-08 15:57:25,701] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/prettify.css
+[2022-10-08 15:57:25,702] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+[2022-10-08 15:57:25,702] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/bootstrap.min.css
+[2022-10-08 15:57:25,704] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+[2022-10-08 15:57:25,705] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/default.css
+[2022-10-08 15:57:25,706] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[2022-10-08 15:57:25,707] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[2022-10-08 15:57:25,706] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/ajax-form.js
+[2022-10-08 15:57:25,707] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 404 77
+[2022-10-08 15:57:25,707] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[2022-10-08 15:57:25,709] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/csrf.js
+[2022-10-08 15:57:25,710] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/prettify-min.js
+[2022-10-08 15:57:25,710] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[2022-10-08 15:57:25,711] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/default.js
+[2022-10-08 15:57:25,712] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/bootstrap.min.js
+[2022-10-08 15:57:25,712] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[2022-10-08 15:57:25,713] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[2022-10-08 15:57:25,713] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[2022-10-08 15:57:25,713] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[2022-10-08 15:57:25,713] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[2022-10-08 15:57:25,781] [log.py:222] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-10-08 15:57:25,782] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 77
+[2022-10-08 15:57:39,577] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 134944
+[2022-10-08 15:57:39,622] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/bootstrap.min.css
+[2022-10-08 15:57:39,622] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[2022-10-08 15:57:39,627] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+[2022-10-08 15:57:39,627] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[2022-10-08 15:57:39,629] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/prettify.css
+[2022-10-08 15:57:39,629] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[2022-10-08 15:57:39,630] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/ajax-form.js
+[2022-10-08 15:57:39,631] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+[2022-10-08 15:57:39,632] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/csrf.js
+[2022-10-08 15:57:39,632] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/default.css
+[2022-10-08 15:57:39,633] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/bootstrap.min.js
+[2022-10-08 15:57:39,634] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/prettify-min.js
+[2022-10-08 15:57:39,635] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[2022-10-08 15:57:39,634] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[2022-10-08 15:57:39,635] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[2022-10-08 15:57:39,635] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[2022-10-08 15:57:39,635] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[2022-10-08 15:57:39,634] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 404 77
+[2022-10-08 15:57:39,636] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/default.js
+[2022-10-08 15:57:39,637] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[2022-10-08 15:59:40,554] [autoreload.py:217] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/settings.py changed, reloading.
+[2022-10-08 15:59:40,889] [autoreload.py:597] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 15:59:43,190] [autoreload.py:597] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:00:48,323] [autoreload.py:217] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/settings.py changed, reloading.
+[2022-10-08 16:00:48,655] [autoreload.py:597] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:01:20,044] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 134944
+[2022-10-08 16:01:20,095] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/bootstrap.min.css
+[2022-10-08 16:01:20,095] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[2022-10-08 16:01:20,096] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+[2022-10-08 16:01:20,097] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/prettify.css
+[2022-10-08 16:01:20,097] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[2022-10-08 16:01:20,097] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[2022-10-08 16:01:20,101] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/css/default.css
+[2022-10-08 16:01:20,102] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+[2022-10-08 16:01:20,102] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[2022-10-08 16:01:20,103] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/bootstrap.min.js
+[2022-10-08 16:01:20,103] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/prettify-min.js
+[2022-10-08 16:01:20,104] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/csrf.js
+[2022-10-08 16:01:20,105] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/ajax-form.js
+[2022-10-08 16:01:20,105] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 404 77
+[2022-10-08 16:01:20,106] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[2022-10-08 16:01:20,106] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[2022-10-08 16:01:20,106] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[2022-10-08 16:01:20,106] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[2022-10-08 16:01:20,109] [log.py:222] [log:log_response] [WARNING]- Not Found: /static/rest_framework/js/default.js
+[2022-10-08 16:01:20,110] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[2022-10-08 16:01:29,972] [autoreload.py:217] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/settings.py changed, reloading.
+[2022-10-08 16:01:30,312] [autoreload.py:597] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:03:16,179] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:04:27,004] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:05:14,928] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:05:39,975] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:06:12,782] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:06:18,143] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6412
+[2022-10-08 16:06:18,184] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2022-10-08 16:06:18,185] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[2022-10-08 16:06:18,188] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[2022-10-08 16:06:18,190] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+[2022-10-08 16:06:18,192] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[2022-10-08 16:06:18,195] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+[2022-10-08 16:06:18,195] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[2022-10-08 16:06:18,197] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2022-10-08 16:06:18,197] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[2022-10-08 16:06:18,198] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+[2022-10-08 16:06:18,205] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[2022-10-08 16:06:32,569] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 134348
+[2022-10-08 16:06:32,650] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+[2022-10-08 16:09:22,120] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:19:35,066] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/contents/views.py changed, reloading.
+[2022-10-08 16:19:35,466] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:27:13,878] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/account/views.py changed, reloading.
+[2022-10-08 16:27:14,237] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:28:52,194] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:32:51,979] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/account/apps.py changed, reloading.
+[2022-10-08 16:32:52,321] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:33:02,235] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:34:37,561] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/contents/apps.py changed, reloading.
+[2022-10-08 16:34:37,918] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:35:32,695] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/contents/apps.py changed, reloading.
+[2022-10-08 16:35:33,045] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:36:00,822] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/settings.py changed, reloading.
+[2022-10-08 16:36:01,142] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:40:06,155] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:40:43,272] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/contents/apps.py changed, reloading.
+[2022-10-08 16:40:43,598] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:40:55,998] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/account/apps.py changed, reloading.
+[2022-10-08 16:40:56,339] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 16:41:44,885] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/settings.py changed, reloading.
+[2022-10-08 16:41:45,209] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 17:01:57,028] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 17:01:59,136] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6402
+[2022-10-08 17:01:59,165] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[2022-10-08 17:01:59,166] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+[2022-10-08 17:01:59,166] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+[2022-10-08 17:01:59,167] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[2022-10-08 17:01:59,167] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2022-10-08 17:01:59,167] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[2022-10-08 17:01:59,168] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+[2022-10-08 17:01:59,172] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[2022-10-08 17:01:59,173] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2022-10-08 17:01:59,175] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[2022-10-08 17:01:59,202] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[2022-10-08 17:02:01,926] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 7362
+[2022-10-08 17:02:02,030] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+[2022-10-08 17:06:48,251] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/contents/models.py changed, reloading.
+[2022-10-08 17:06:48,600] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 17:09:59,652] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/contents/models.py changed, reloading.
+[2022-10-08 17:10:00,032] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 17:58:14,536] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 17:58:49,397] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/urls.py changed, reloading.
+[2022-10-08 17:58:49,657] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 17:58:57,432] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6276
+[2022-10-08 17:58:57,472] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[2022-10-08 17:58:57,475] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[2022-10-08 17:58:57,475] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[2022-10-08 17:58:57,475] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[2022-10-08 17:58:57,475] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[2022-10-08 17:58:57,477] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[2022-10-08 17:58:57,478] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[2022-10-08 17:58:57,479] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[2022-10-08 17:58:57,479] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[2022-10-08 17:58:57,479] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+[2022-10-08 17:58:57,511] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[2022-10-08 17:59:42,342] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6276
+[2022-10-08 17:59:46,279] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /categories/ HTTP/1.1" 200 6378
+[2022-10-08 17:59:46,347] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[2022-10-08 17:59:54,705] [basehttp.py:161] [basehttp:log_message] [INFO]- "OPTIONS /categories/ HTTP/1.1" 200 5649
+[2022-10-08 17:59:59,353] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /categories/ HTTP/1.1" 200 6378
+[2022-10-08 18:00:00,349] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6276
+[2022-10-08 18:00:03,861] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 7362
+[2022-10-08 18:01:22,625] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/contents/serializers.py changed, reloading.
+[2022-10-08 18:01:22,955] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 18:01:31,352] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 7362
+[2022-10-08 18:16:48,137] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/settings.py changed, reloading.
+[2022-10-08 18:16:48,538] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 18:21:04,837] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 18:21:12,000] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 7362
+[2022-10-08 18:21:12,031] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[2022-10-08 18:21:12,031] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[2022-10-08 18:21:12,037] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[2022-10-08 18:21:12,037] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[2022-10-08 18:21:12,037] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+[2022-10-08 18:21:12,037] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[2022-10-08 18:21:12,038] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[2022-10-08 18:21:12,039] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[2022-10-08 18:21:12,039] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[2022-10-08 18:21:12,042] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[2022-10-08 18:21:12,091] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[2022-10-08 18:21:12,097] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[2022-10-08 18:21:16,751] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6276
+[2022-10-08 18:21:18,900] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /siteinfo/ HTTP/1.1" 200 5280
+[2022-10-08 18:22:24,963] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 18:22:31,651] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /siteinfo/ HTTP/1.1" 200 5280
+[2022-10-08 18:22:41,996] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6276
+[2022-10-08 18:22:44,212] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /tags/ HTTP/1.1" 200 5214
+[2022-10-08 19:05:34,867] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 19:05:39,210] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6276
+[2022-10-08 19:05:39,255] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[2022-10-08 19:05:39,255] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[2022-10-08 19:05:39,257] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+[2022-10-08 19:05:39,258] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[2022-10-08 19:05:39,260] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[2022-10-08 19:05:39,262] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[2022-10-08 19:05:39,262] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[2022-10-08 19:05:39,262] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[2022-10-08 19:05:39,263] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[2022-10-08 19:05:39,264] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[2022-10-08 19:05:39,290] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[2022-10-08 19:05:48,936] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger HTTP/1.1" 301 0
+[2022-10-08 19:05:48,951] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/ HTTP/1.1" 200 2159
+[2022-10-08 19:05:48,976] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2022-10-08 19:05:48,978] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 143858
+[2022-10-08 19:05:48,981] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2022-10-08 19:05:48,985] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+[2022-10-08 19:05:48,986] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14964
+[2022-10-08 19:05:48,988] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 324275
+[2022-10-08 19:05:48,992] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1086481
+[2022-10-08 19:05:49,098] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/?format=openapi HTTP/1.1" 200 15988
+[2022-10-08 19:05:49,099] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+[2022-10-08 19:06:18,399] [log.py:224] [log:log_response] [WARNING]- Unauthorized: /blog/
+[2022-10-08 19:06:18,401] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /blog/ HTTP/1.1" 401 43
+[2022-10-08 22:26:19,592] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 22:26:31,027] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/__init__.py changed, reloading.
+[2022-10-08 22:26:31,360] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 22:31:21,450] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/settings.py changed, reloading.
+[2022-10-08 22:31:21,808] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 22:31:24,861] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 22:32:14,004] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/utils/middleware.py changed, reloading.
+[2022-10-08 22:32:14,313] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 22:32:17,027] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 22:32:36,696] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/utils/middleware.py changed, reloading.
+[2022-10-08 22:32:37,085] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 22:46:40,777] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/settings.py changed, reloading.
+[2022-10-08 22:46:41,241] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 22:48:26,958] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 22:50:20,660] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/utils/middleware.py changed, reloading.
+[2022-10-08 22:50:20,994] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 22:51:44,365] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 23:11:43,241] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 23:12:35,576] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/apps/utils/middleware.py changed, reloading.
+[2022-10-08 23:12:35,943] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 23:14:01,413] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-08 23:22:06,767] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6348
+[2022-10-08 23:22:06,817] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2022-10-08 23:22:06,820] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[2022-10-08 23:22:06,826] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[2022-10-08 23:22:06,826] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+[2022-10-08 23:22:06,826] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+[2022-10-08 23:22:06,826] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[2022-10-08 23:22:06,827] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+[2022-10-08 23:22:06,834] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2022-10-08 23:22:06,836] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[2022-10-08 23:22:06,836] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[2022-10-08 23:22:06,845] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[2022-10-08 23:22:06,914] [log.py:224] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-10-08 23:22:06,914] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 10988
+[2022-10-08 23:22:09,749] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 7362
+[2022-10-08 23:22:09,842] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+[2022-10-08 23:22:30,083] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /posts HTTP/1.1" 301 0
+[2022-10-08 23:23:01,871] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 7362
+[2022-10-08 23:23:16,830] [log.py:224] [log:log_response] [WARNING]- Not Found: /swigger/
+[2022-10-08 23:23:16,831] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /swigger/ HTTP/1.1" 404 10979
+[2022-10-08 23:23:40,333] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/ HTTP/1.1" 200 2159
+[2022-10-08 23:23:58,387] [log.py:224] [log:log_response] [WARNING]- Not Found: /accounts/login/
+[2022-10-08 23:23:58,388] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /accounts/login/?next=/swagger/ HTTP/1.1" 404 11015
+[2022-10-08 23:24:06,521] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger HTTP/1.1" 301 0
+[2022-10-08 23:24:06,540] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/ HTTP/1.1" 200 2159
+[2022-10-08 23:24:06,569] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2022-10-08 23:24:06,574] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2022-10-08 23:24:06,575] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 143858
+[2022-10-08 23:24:06,575] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+[2022-10-08 23:24:06,577] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 324275
+[2022-10-08 23:24:06,579] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1086481
+[2022-10-08 23:24:06,580] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14964
+[2022-10-08 23:24:06,708] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/?format=openapi HTTP/1.1" 200 15992
+[2022-10-08 23:24:06,708] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+[2022-10-10 18:06:02,249] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6276
+[2022-10-10 18:06:02,281] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[2022-10-10 18:06:02,282] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[2022-10-10 18:06:02,284] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[2022-10-10 18:06:02,285] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[2022-10-10 18:06:02,285] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[2022-10-10 18:06:02,285] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2022-10-10 18:06:02,286] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+[2022-10-10 18:06:02,286] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2022-10-10 18:06:02,289] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[2022-10-10 18:06:02,289] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[2022-10-10 18:06:02,334] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[2022-10-11 07:29:55,606] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('192.168.12.126', 33074)
+

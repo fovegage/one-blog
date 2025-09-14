@@ -1,0 +1,33 @@
+[2022-10-19 14:09:56,559] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-19 14:10:25,430] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6276
+[2022-10-19 14:10:25,543] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2022-10-19 14:10:25,546] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[2022-10-19 14:10:25,557] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+[2022-10-19 14:10:25,558] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[2022-10-19 14:10:25,558] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+[2022-10-19 14:10:25,559] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[2022-10-19 14:10:25,561] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+[2022-10-19 14:10:25,561] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2022-10-19 14:10:25,566] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[2022-10-19 14:10:25,566] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[2022-10-19 14:10:25,600] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[2022-10-19 14:10:25,806] [log.py:224] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-10-19 14:10:25,807] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 10984
+[2022-10-19 14:10:28,042] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 7362
+[2022-10-19 14:10:28,158] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+[2022-10-19 14:12:24,076] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- /Users/gaozhe/PycharmProjects/blog-api/blogapi/settings.py changed, reloading.
+[2022-10-19 14:12:24,477] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-19 14:14:34,411] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /posts/ HTTP/1.1" 200 7362
+[2022-10-19 14:16:01,303] [log.py:224] [log:log_response] [WARNING]- Not Found: /shanbat/ddddd
+[2022-10-19 14:16:01,304] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /shanbat/ddddd HTTP/1.1" 404 10990
+[2022-10-19 14:16:07,258] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger HTTP/1.1" 301 0
+[2022-10-19 14:16:07,272] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/ HTTP/1.1" 200 2159
+[2022-10-19 14:16:07,323] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2022-10-19 14:16:07,323] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2022-10-19 14:16:07,324] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+[2022-10-19 14:16:07,325] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 143858
+[2022-10-19 14:16:07,326] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14964
+[2022-10-19 14:16:07,327] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 324275
+[2022-10-19 14:16:07,329] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1086481
+[2022-10-19 14:16:07,452] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /swagger/?format=openapi HTTP/1.1" 200 15988
+[2022-10-19 14:16:07,453] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
